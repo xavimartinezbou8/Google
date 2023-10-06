@@ -4,6 +4,8 @@
 
 Larry Page y Sergey Brin incorporan oficialmente Google, aunque la tecnología en la que se basaría su nuevo sitio web llevaba varios años en desarrollo. Dos estudiantes de doctorado de la Universidad de Stanford en California, Estados Unidos.
 
+![U+200E](https://github.com/xavimartinezbou8/Google/blob/main/descarga%20(1).jpg "imagen")
+
 2. __Cuando fue fundada?__
 
 La compañía fue fundada en septiembre de 1998, aunque la idea inicial y los primeros desarrollos de lo que se convertiría en Google comenzaron antes, mientras Page y Brin estaban en Stanford.
@@ -16,5 +18,5 @@ La compañía fue fundada en septiembre de 1998, aunque la idea inicial y los pr
 
 Desarrollaron un algoritmo de búsqueda llamado PageRank, que se centraba en la relevancia y la calidad de los enlaces para clasificar las páginas web en función de su importancia.
 
-![U+200E](https://github.com/xavimartinezbou8/Google/blob/main/descarga%20(1).jpg "imagen")
+
 
