@@ -16,5 +16,5 @@ La compañía fue fundada en septiembre de 1998, aunque la idea inicial y los pr
 
 Desarrollaron un algoritmo de búsqueda llamado PageRank, que se centraba en la relevancia y la calidad de los enlaces para clasificar las páginas web en función de su importancia.
 
-
+![U+200E](https://github.com/xavimartinezbou8/Google/blob/main/descarga%20(1).jpg "imagen")
 
